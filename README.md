@@ -96,7 +96,7 @@ The Sponza model looks like this:
 
 The result shows that the sparse KLT term achieves better feature age while the event term can achieve better tracking accuracy. Combining the two terms can make a balance between feature age and tracking accuracy:  
 
-
+<img src="./images/simulation_result.png" width="400">   
 
 #### 4.2 Experiments with real-world data 
 
