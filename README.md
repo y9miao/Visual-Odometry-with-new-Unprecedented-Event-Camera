@@ -6,7 +6,7 @@
 
 This repository implements the work of the student project [**Visual Odometry with new Unprecedented Event Camera**](https://rpg.ifi.uzh.ch/student_projects.php) by Yang Miao(yamiao@student.ethz.ch), supervised by Nico Messikommer, Daniel Gehrig and Prof. Davide Scaramuzza.  To our best knowledge, this is the <strong>first</strong> feature tracking framework that utilize events with abosolute intensity measurement.  
 
-The code framework is based on [**EKLT**](https://github.com/uzh-rpg/rpg_eklt). According to the aggrement with RPG-UZH, the code is currently unavailable to public. If you need the code, please contact Yang Miao(yamiao@student.ethz.ch). 
+The code framework is based on [**EKLT**](https://github.com/uzh-rpg/rpg_eklt). <strong>According to the aggrement with RPG-UZH, the code is currently unavailable to public. If you are interested in the code, please contact Yang Miao(yamiao@student.ethz.ch)</strong>. 
 
 ## Tips  
 
