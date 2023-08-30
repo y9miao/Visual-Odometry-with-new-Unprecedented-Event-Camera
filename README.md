@@ -1,7 +1,7 @@
 # Oculi-Feature Tracking: Tracking with Oculi events  
 <figure>
     <img src="./images/feature_tracking.png" width="200" >   
-    <figcaption>Feature Tracking</figcaption>
+<!--     <figcaption>Feature Tracking</figcaption> -->
 </figure>  
 
 This repository implements the work of the student project [**Visual Odometry with new Unprecedented Event Camera**](https://rpg.ifi.uzh.ch/student_projects.php) by Yang Miao(yamiao@student.ethz.ch), supervised by Nico Messikommer, Daniel Gehrig and Prof. Davide Scaramuzza.  To our best knowledge, this is the <strong>first</strong> feature tracking framework that utilize events with abosolute intensity measurement.  
